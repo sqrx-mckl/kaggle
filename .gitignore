@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Workspace Specifics
-data/
-.vscode/
+**/data/
+**/.vscode/

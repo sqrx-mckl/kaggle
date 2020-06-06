@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 from pathlib import Path
 
-fp_db = Path(r'/home/sqrx/Documents/Data/the-movies-dataset')
+fp_db = Path(r'/data/the-movies-dataset')
 
 # %%
 
